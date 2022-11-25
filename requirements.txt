@@ -7,3 +7,9 @@ beautifulsoup4
 urllib3
 pipreqs
 gunicorn
+Flask
+passlib
+SQLAlchemy
+Werkzeug
+gunicorn
+gevent
